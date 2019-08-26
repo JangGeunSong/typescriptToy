@@ -1,0 +1,1 @@
+This is typescript toy project for exchange js webapp.
